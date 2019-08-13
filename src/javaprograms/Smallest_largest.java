@@ -12,14 +12,14 @@ public class Smallest_largest {
 
 		for (int i = 1; i < a.length; i++) {
 			if (a[i] > largest) {
-				largest = a[i];  //99
+				largest = a[i]; // 99
 			} else if (a[i] < smallest) {
-				smallest = a[i];//-66
+				smallest = a[i];// -66
 			}
 
 		}
-         System.out.println("the largest values is   " +largest);
-         System.out.println("the smallest values is   " +smallest);
+		System.out.println("the largest values is   " + largest);
+		System.out.println("the smallest values is   " + smallest);
 	}
 
 }

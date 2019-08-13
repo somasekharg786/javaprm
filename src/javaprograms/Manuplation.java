@@ -62,6 +62,7 @@ public class Manuplation {
 		String s9=String.valueOf(x);
 		System.out.println(s9);
 		
+		//convert char to string
 		char ch[]= {'a','b','c'};
 		String s10=String.valueOf(ch);
 		System.out.println(s10);
@@ -72,7 +73,7 @@ public class Manuplation {
 		
 		
 	
-
+ 
 	}
 
 }

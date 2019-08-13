@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selenium.Parameterizetest">
+      <class name="selenium.MultipleBrowser">
         <methods>
-          <include name="parameetertest"/>
+          <include name="firefoxbrowser"/>
         </methods>
-      </class> <!-- selenium.Parameterizetest -->
+      </class> <!-- selenium.MultipleBrowser -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

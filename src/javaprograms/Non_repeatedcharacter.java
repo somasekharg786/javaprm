@@ -28,3 +28,16 @@ public class Non_repeatedcharacter {
 	    }
 
 }
+
+/*public static void main(String[] args) {
+String s = "ffeeddbbaaclck";
+for (char c : s.toCharArray()) {
+    if (s.indexOf(c) == s.lastIndexOf(c)) {
+        System.out.println("First non repeated characted in String \""
+        + s + "\" is:" + c);
+        break;
+    }
+}
+}
+}
+*/

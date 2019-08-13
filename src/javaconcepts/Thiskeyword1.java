@@ -12,7 +12,7 @@ public class Thiskeyword1 {
 	void banana() {
 		
 		System.out.println("this banana also very good for health");
-	this.apple();
+	//this.apple();
 	apple();
 	}
 

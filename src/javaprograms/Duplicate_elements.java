@@ -26,7 +26,7 @@ public class Duplicate_elements {
 				System.out.println("the duplicate elment   " +name);
 			}
 		 }
-		 
+		  
 	}
 
 }
